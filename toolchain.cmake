@@ -1,0 +1,3 @@
+SET(CMAKE_SYSTEM_NAME Generic)
+SET(CMAKE_C_COMPILER "${TOOLCHAIN_ROOT}/bin/arm-eabi-gcc.exe")
+SET(CMAKE_CXX_COMPILER "${TOOLCHAIN_ROOT}/bin/arm-eabi-g++.exe")
